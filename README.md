@@ -3,7 +3,8 @@
 Colègio: Colégio Estadual Polivalente
 
 
--------------Conteúdo------------------------
+---------------------------------------------
+Conteúdo
 
 Usamos a Alura, no projeto AluraPlus
 feito ao longo das aulas usando HTML5 e CSS.
@@ -11,7 +12,8 @@ feito ao longo das aulas usando HTML5 e CSS.
 ---------------------------------------------
 
 
---------------Alunos-------------------------
+---------------------------------------------
+Alunos
 
 Witor Tenã:
 n:47
